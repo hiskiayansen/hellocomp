@@ -8,7 +8,7 @@ function SetNama($parameter)
 $this->Nama=$parameter;
 }
 function GetNama(){
-echo $this->Nama. <br/>";
+echo $this->Nama. "<br/>";
 
 }}
 
